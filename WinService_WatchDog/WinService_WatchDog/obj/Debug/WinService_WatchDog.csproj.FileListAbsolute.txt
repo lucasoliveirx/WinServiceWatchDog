@@ -1,0 +1,7 @@
+C:\Users\CSP6401\Documents\Repositório\WinService_WatchDog\WinService_WatchDog\obj\Debug\WinService_WatchDog.csproj.AssemblyReference.cache
+C:\Users\CSP6401\Documents\Repositório\WinService_WatchDog\WinService_WatchDog\obj\Debug\WinService_WatchDog.csproj.CoreCompileInputs.cache
+C:\Users\CSP6401\Documents\Repositório\WinService_WatchDog\WinService_WatchDog\bin\Debug\WinService_WatchDog.exe.config
+C:\Users\CSP6401\Documents\Repositório\WinService_WatchDog\WinService_WatchDog\bin\Debug\WinService_WatchDog.exe
+C:\Users\CSP6401\Documents\Repositório\WinService_WatchDog\WinService_WatchDog\bin\Debug\WinService_WatchDog.pdb
+C:\Users\CSP6401\Documents\Repositório\WinService_WatchDog\WinService_WatchDog\obj\Debug\WinService_WatchDog.exe
+C:\Users\CSP6401\Documents\Repositório\WinService_WatchDog\WinService_WatchDog\obj\Debug\WinService_WatchDog.pdb
