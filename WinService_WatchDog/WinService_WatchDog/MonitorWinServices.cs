@@ -40,11 +40,8 @@ namespace WinService_WatchDog
                         Logs.RegisterLog($"Erro ao reiniciar processo. Detalhe do erro: {ex.Message}", logTxtFilePath);
                     }
                 }
-                //else
-                //{
-                //    Console.WriteLine($"Processo: ${proc.Name} - OK");
-                //}
             }
         }
     }
 }
+
